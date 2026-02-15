@@ -41,7 +41,7 @@ const handler = async (m, { conn, command }) => {
 };
 
 handler.help = ['setprimary', 'delprimary'];
-handler.tags = ['group'];
+handler.tags = ['grupos'];
 handler.command = ['setprimary', 'delprimary'];
 handler.admin = true;
 
