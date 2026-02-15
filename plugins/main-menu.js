@@ -11,7 +11,7 @@ const tags = {
   serbot: 'SUB BOTS',
   rpg: 'RPG',
   sticker: 'STICKER',
-  group: 'GROUPS',
+  grupos: 'GROUPS',
   nable: 'ON / OFF',
   premium: 'PREMIUM',
   download: 'DOWNLOAD',
