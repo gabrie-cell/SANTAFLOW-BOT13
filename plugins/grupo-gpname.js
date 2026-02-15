@@ -12,7 +12,7 @@ const handler = async (m, {conn, args, text}) => {
   }
 };
 handler.help = ['gruponame <text>'];
-handler.tags = ['grupo'];
+handler.tags = ['grupos'];
 handler.command = ['gpname', 'groupname']
 handler.group = true;
 handler.admin = true;
