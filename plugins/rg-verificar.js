@@ -27,7 +27,7 @@ let handler = async function (m, { conn, text, usedPrefix, command }) {
     ];
 
     return await conn.sendMessage(m.chat, {
-      image: { url: 'https://i.postimg.cc/mZqG44Dy/1760212243057.jpg' },
+      image: { url: 'https://raw.githubusercontent.com/El-brayan502/img/upload/uploads/57901e-1771190430404.jpg' },
       caption: '   ꒰🥭⚠️ `ＡＶＩＳＯ` ⚠️🎵꒱ ',
       mentions: [m.sender],
       footer: `┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
@@ -62,7 +62,7 @@ let handler = async function (m, { conn, text, usedPrefix, command }) {
      ];
 
     return await conn.sendMessage(m.chat, {
-      image: { url: 'https://i.postimg.cc/mZqG44Dy/1760212243057.jpg' },
+      image: { url: 'https://raw.githubusercontent.com/El-brayan502/img/upload/uploads/57901e-1771190430404.jpg' },
       caption: '    `ＡＶＩＳＯ:`',
       mentions: [m.sender],
       footer: `｡☆✼★━━━━━━━━━━━━★✼☆｡  
@@ -154,10 +154,10 @@ await conn.sendMessage(
         newsletterName: channelRD.name
       },
       externalAdReply: {
-        title: '❁︩︪•°ֺ໋۪݊🎵 ʀᴇɢɪsᴛʀᴏ - sᴀɴᴛᴀғʟᴏᴡ - ʙᴏᴛ ☁️°໋•︪︩❁',
+        title: '❁︩︪•°ֺ໋۪݊🎵 ʀᴇɢɪsᴛʀᴏ - 𝖬𝖨𝖳𝖲𝖴𝖱𝖸 - ʙᴏᴛ ☁️°໋•︪︩❁',
         body: '꒰🥭꒱ ᴛᴜ ᴄᴜᴇɴᴛᴀ ʜᴀ ꜱɪᴅᴏ ᴀᴄᴛɪᴠᴀᴅᴀ ᴄᴏɴ ᴇxɪᴛᴏ `☯︎ sᴀɴᴛᴀғʟᴏᴡ • ʙʏ: ℂ𝕒𝕣𝕝𝕠𝕤.ℝ.𝕍`',
         mediaType: 1,
-        thumbnailUrl: 'https://i.postimg.cc/mZqG44Dy/1760212243057.jpg',
+        thumbnailUrl: 'https://raw.githubusercontent.com/El-brayan502/img/upload/uploads/57901e-1771190430404.jpg',
         mediaUrl: redes,
         sourceUrl: redes,
         renderLargerThumbnail: false
