@@ -8,8 +8,7 @@ let Reg = /\|?(.*)([.|] *?)([0-9]*)$/i
 
 let handler = async function (m, { conn, text, usedPrefix, command }) {
   let who = m.mentionedJid && m.mentionedJid[0] ? m.mentionedJid[0] : m.fromMe ? conn.user.jid : m.sender
-  let pp = await 
-   const imgPath = join(__dirname, '../src/catalogo.jpg')
+    let pp = await conn.profilePictureUrl(who, 'image').catch((_) => 'https://i.postimg.cc/mZqG44Dy/1760212243057.jpg')
   let user = global.db.data.users[m.sender]
   let name2 = conn.getName(m.sender)
 
