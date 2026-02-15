@@ -25,7 +25,6 @@ const tags = {
   economy: 'ECONOMIA',
   GACHA: 'GACHA',
   rg: 'RG',
-  info: 'INFO',
   rpg: 'RPG'
 }
 
