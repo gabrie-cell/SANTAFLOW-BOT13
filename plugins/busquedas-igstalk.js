@@ -74,7 +74,7 @@ ${bioLinks}
 };
 
 handler.help = ["igstalk"];
-handler.tags = ["internet"];
+handler.tags = ["search"];
 handler.command = ["igstalk", "instagramstalk", "stalkig"];
 
 export default handler;
