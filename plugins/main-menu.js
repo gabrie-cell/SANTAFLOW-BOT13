@@ -3,7 +3,7 @@ const { generateWAMessageFromContent, proto } = pkg
 
 const tags = {
   anime: 'ANIME',
-  juegos: 'JUEGOS',
+  stalk: 'STALK',
   main: 'INFO',
   ai: 'IA',
   search: 'SEARCH',
@@ -25,7 +25,7 @@ const tags = {
   weather: 'WEATHER',
   news: 'NEWS',
   finance: 'FINANCE',
-  education: 'EDUCATION',
+  rpg: 'RPG',
   health: 'HEALTH',
   entertainment: 'ENTERTAINMENT',
   travel: 'TRAVEL',
