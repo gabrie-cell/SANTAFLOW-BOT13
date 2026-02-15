@@ -36,8 +36,8 @@ global.namecomu = '▐▐ 🎧 𝐒𝐀𝐍𝐓𝐀𝐅𝐋𝐎𝐖-𝐁𝐎𝐓
 global.listo = '✦❀ *Aquí tienes ฅ^•ﻌ•^ฅ* ❀✦'
 global.fotoperfil = await conn.profilePictureUrl(m.sender, 'image').catch(_ => 'https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1745522645448.jpeg')
 
-global.canalIdM = ["120363404087331895@newsletter", "120363404087331895@newsletter", "120363404087331895@newsletter"]
-global.canalNombreM = ["𝐒𝐀𝐍𝐓𝐀𝐅𝐋𝐎𝐖 𝐁𝐎𝐓 | ° 𝘊𝘏𝘈𝘕𝘕𝘌𝘓- 𝗢𝗙𝗜𝗖𝗜𝗔𝗟🧪꙰⃟⸙", "𝐒𝐀𝐍𝐓𝐀𝐅𝐋𝐎𝐖 𝐁𝐎𝐓 | ° 𝘊𝘏𝘈𝘕𝘕𝘌𝘓- 𝗢𝗙𝗜𝗖𝗜𝗔𝗟🧪꙰⃟⸙", "sᴀɴᴛᴀғʟᴏᴡ ʙᴏᴛ | ° ᴄʜᴀɴɴᴇʟ - Official 🧪꙰⃟⸙"]
+global.canalIdM = ["120363424677971125@newsletter", "120363424677971125@newsletter", "120363424677971125@newsletter"]
+global.canalNombreM = ["𝗠𝗜𝗧𝗦𝗨𝗥𝗬-𝗖𝗛𝗔𝗡𝗡𝗘𝗟| ° 𝘊𝘏𝘈𝘕𝘕𝘌𝘓- 𝗢𝗙𝗜𝗖𝗜𝗔𝗟🧪꙰⃟⸙", "𝗠𝗜𝗧𝗦𝗨𝗥𝗬 𝐁𝐎𝐓 | ° 𝘊𝘏𝘈𝘕𝘕𝘌𝘓- 𝗢𝗙𝗜𝗖𝗜𝗔𝗟🧪꙰⃟⸙", "𝗠𝗜𝗧𝗦𝗨𝗥𝗬 𝗕𝗢𝗧 | ° ᴄʜᴀɴɴᴇʟ - Official 🧪꙰⃟⸙"]
 global.channelRD = await getRandomChannel()
 
 global.d = new Date(new Date + 3600000)
@@ -103,9 +103,9 @@ global.packsticker = `
 ✦ ℍ𝕠𝕣𝕒: ${tiempo}
 ✧⁺₊⋆☾⋆.˚₊✩🥭🎧
 `;
-global.packsticker2 = `╭࣭࣭࣭࣭࣭࣭ٜ۫┄☪︎⃘✦ 𝑆𝐴𝑁𝑇𝐴𝐹𝐿𝑂𝑊 - 𝐵𝑂𝑇 ✦☪︎┄࣭࣭࣭࣭࣭࣭۫╮
+global.packsticker2 = `╭࣭࣭࣭࣭࣭࣭ٜ۫┄☪︎⃘✦ 𝗠𝗜𝗧𝗦𝗨𝗥𝗬 - 𝐵𝑂𝑇 ✦☪︎┄࣭࣭࣭࣭࣭࣭۫╮
      ${dev}
-╰࣭࣭࣭࣭࣭࣭ٜ۫┄☪︎⃘✦ C'arlos R'amirez F'c ✦☪︎┄࣭࣭࣭࣭࣭࣭۫╯`
+╰࣭࣭࣭࣭࣭࣭ٜ۫┄☪︎⃘✦𝗴𝗮𝗯𝘅𝘇 R'amirez F'c ✦☪︎┄࣭࣭࣭࣭࣭࣭۫╯`
   
 global.fkontak = { key: {participant: `0@s.whatsapp.net`, ...(m.chat ? { remoteJid: `6285600793871-1614953337@g.us` } : {}) }, message: { 'contactMessage': { 'displayName': `${nombre}`, 'vcard': `BEGIN:VCARD\nVERSION:3.0\nN:XL;${nombre},;;;\nFN:${nombre},\nitem1.TEL;waid=${m.sender.split('@')[0]}:${m.sender.split('@')[0]}\nitem1.X-ABLabel:Ponsel\nEND:VCARD`, 'jpegThumbnail': null, thumbnail: null,sendEphemeral: true}}}
 
