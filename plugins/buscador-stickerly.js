@@ -93,7 +93,7 @@ let handler = async (m, { conn, text, usedPrefix, command }) => {
 };
 
 handler.help = ['stickerly <texto>'];
-handler.tags = ['sticker'];
+handler.tags = ['search'];
 handler.command = ['stickerly'];
 handler.premium = true;
 export default handler;
