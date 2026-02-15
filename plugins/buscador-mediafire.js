@@ -39,7 +39,7 @@ let handler = async (m, { conn, text, usedPrefix, command }) => {
 }
 
 handler.help = ['mediafiresearch <texto>']
-handler.tags = ['buscador']
+handler.tags = ['search']
 handler.command = ['mediafiresearch', 'mfse']
 handler.group = true
 
