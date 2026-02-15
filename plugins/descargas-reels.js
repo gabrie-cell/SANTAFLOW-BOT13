@@ -106,7 +106,7 @@ let handler = async (m, { conn, text, usedPrefix, command }) => {
 };
 
 handler.help = ["reels <texto>"];
-handler.tags = ["downloader"];
+handler.tags = ["descargas"];
 handler.command = ["reels", "instareels"];
 
 export default handler;
