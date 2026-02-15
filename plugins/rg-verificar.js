@@ -8,7 +8,7 @@ let Reg = /\|?(.*)([.|] *?)([0-9]*)$/i
 
 let handler = async function (m, { conn, text, usedPrefix, command }) {
   let who = m.mentionedJid && m.mentionedJid[0] ? m.mentionedJid[0] : m.fromMe ? conn.user.jid : m.sender
-    let pp = await conn.profilePictureUrl(who, 'image').catch((_) => 'https://i.postimg.cc/mZqG44Dy/1760212243057.jpg')
+    let pp = await conn.profilePictureUrl(who, 'image').catch((_) => 'https://raw.githubusercontent.com/El-brayan502/img/upload/uploads/57901e-1771190430404.jpg')
   let user = global.db.data.users[m.sender]
   let name2 = conn.getName(m.sender)
 
