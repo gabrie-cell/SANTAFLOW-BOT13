@@ -50,7 +50,7 @@ let handler = async (m, { conn, text, usedPrefix, command }) => {
 };
 
 handler.help = ["applemusicsearch <canción>"];
-handler.tags = ["buscadores"];
+handler.tags = ["search"];
 handler.command = ['applemusicsearch'];
 
 export default handler;
