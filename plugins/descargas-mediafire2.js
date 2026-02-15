@@ -11,7 +11,7 @@ let handler = async (m, { conn, text }) => {
       mentions: [m.sender],
       contextInfo: {
         externalAdReply: {
-          title: '🥭 Santaflow| 🪾 By Carlos .R.V🔥',
+          title: '🥭 Mitsury| 🪾 By gabxz🔥',
           body: club,
           thumbnailUrl: global.logo,
           sourceUrl: 'https://Instagram.com',
