@@ -85,7 +85,7 @@ let handler = async (m, { conn, usedPrefix, __dirname }) => {
     return cmds.length ? `╭┈ » \`${stylize(tag)}\`\n${cmds.join('\n')}\n╰╯` : null
   }).filter(Boolean).join('\n\n')
 
-  const finalMenu = infoUser + '\n\n' + menuText + '\n\n`YAE MIKU BOT CREATOR BRAYAN`'
+  const finalMenu = infoUser + '\n\n' + menuText + '\n\n`𝗠𝗜𝗧𝗦𝗨𝗥𝗬-𝗕𝗢𝗧 𝗖𝗥𝗘𝗔𝗧𝗢𝗥 𝗚𝗔𝗕𝗫𝗭-𝗫𝗬𝗥𝗢`'
 
   let vcard = `BEGIN:VCARD
 VERSION:3.0
