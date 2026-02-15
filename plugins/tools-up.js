@@ -31,7 +31,7 @@ let handler = async (m, { conn }) => {
 };
 
 handler.help = ['up'];
-handler.tags = ['transformador'];
+handler.tags = ['tools'];
 handler.command = ['up', 'to'];
 
 export default handler;
