@@ -14,6 +14,7 @@ const handler = async (m, {conn, text, command, usedPrefix}) => {
 };
 handler.command = ['delwarn', 'unwarn']
 handler.group = true;
+hamdler.tag = ['grupos']
 handler.admin = true;
 handler.botAdmin = true;
 
