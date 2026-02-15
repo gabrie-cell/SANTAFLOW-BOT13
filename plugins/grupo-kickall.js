@@ -15,7 +15,7 @@ m.reply('*Eliminación Exitosa.*')
 }
 
 handler.help = ['kickall']
-handler.tags = ['grupo']
+handler.tags = ['grupos']
 handler.command = ['kickall']
 handler.group = true
 handler.admin = true
