@@ -34,7 +34,7 @@ const tags = {
   info: 'INFO',
   emox: 'EMOX',
   security: 'SECURITY',
-  rg: 'PERFIL'
+  rpg: 'RPG'
 }
 
 let handler = async (m, { conn, args }) => {
