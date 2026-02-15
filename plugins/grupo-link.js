@@ -6,7 +6,7 @@ conn.reply(m.chat, '\t\t✿:･✧ link del grupo ✧･:✿\n\n\v' + link, m, {
 
 }
 handler.help = ['link']
-handler.tags = ['grupo']
+handler.tags = ['grupos']
 handler.command = ['link', 'enlace']
 handler.group = true
 handler.botAdmin = true
