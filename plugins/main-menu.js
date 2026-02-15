@@ -26,7 +26,7 @@ const tags = {
   news: 'NEWS',
   finance: 'FINANCE',
   rpg: 'RPG',
-  health: 'HEALTH',
+  economy: 'ECONOMIA',
   entertainment: 'ENTERTAINMENT',
   travel: 'TRAVEL',
   food: 'FOOD',
