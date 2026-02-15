@@ -3,7 +3,7 @@ const handler = async (m, {conn, args}) => {
   m.reply(`${emoji} La descripción del grupo se modifico correctamente.`);
 };
 handler.help = ['groupdesc <text>'];
-handler.tags = ['grupo'];
+handler.tags = ['grupos'];
 handler.command = ['gpdesc', 'groupdesc']
 handler.group = true;
 handler.admin = true;
