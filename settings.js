@@ -24,23 +24,23 @@ global.prems = ['51978385249']
 global.libreria = 'Baileys'
 global.baileys = 'V 6.7.17' 
 global.vs = '2.2.5'
-global.nameqr = '✦⃟🎧 Santaflow•Bot 🎧⃟✦'
-global.namebot = '⸸ 𝐒𝐀𝐍𝐓𝐀𝐅𝐋𝐎𝐖 • 𝐁𝐎𝐓 ⸸'
+global.nameqr = '✦⃟🎧 𝙼𝙸𝚃𝚂𝚄𝚁𝚈-𝙼𝙳 🎧⃟✦'
+global.namebot = '⸸ 𝙼𝙸𝚃𝚂𝚄𝚁𝚈 • 𝙱𝙾𝚃 ⸸'
 global.sessions = 'Sessions'
 global.jadi = 'JadiBots' 
 global.shadowJadibts = true
 
 //✎﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏
 
-global.packname = '🎶 ⌬ 𝑺𝒂𝒏𝒕𝒂𝒇𝒍𝒐𝒘 𝑩𝒐𝒕 ⌬ 🎵'
-global.botname = '🎵 𝐒𝐀𝐍𝐓𝐀𝐅𝐋𝐎𝐖 𝐁𝐎𝐓 ❤️'
-global.wm = '◈ 𝐒𝐀𝐍𝐓𝐀𝐅𝐋𝐎𝐖 𝐁𝐎𝐓 ◈'
-global.author = '⩇⃟🥭 𝑴𝒂𝒅𝒆 𝒃𝒚 𝐜𝐚𝐫𝐥𝐨𝐬.𝐫𝐯 ⩇⃟🎵'
-global.dev = '🎶 ミ🎵 》𝑪𝑨𝑹𝑳𝑶𝑺.𝑹𝑽《 🎶ミ ❤️'
-global.bot = '𝑺𝒂𝒏𝒕𝒂𝒇𝒍𝒐𝒘 𝒃𝒐𝒕'
-global.club = '🎵 𝖯𝗈𝗐𝖾𝗋𝖾𝖽 𝖻𝗒 carlos•Core 𝖢𝗅𝗎𝖻 🎶'
-global.textbot = 'sᴀɴᴛᴀғʟᴏᴡ ʙᴏᴛ ✦ ℂ𝔸ℝ𝕃𝕆𝕊•ℝ𝕍'
-global.etiqueta = '@ᴄ`ᴀʀʟᴏs ʀ`ᴀᴍɪʀᴇᴢ ° ғ`ᴄ'
+global.packname = '🎶 ⌬ 𝑀𝑖𝑡𝑠𝑢𝑟𝑦 𝑩𝒐𝒕 ⌬ 🎵'
+global.botname = '🎵 𝑴𝑰𝑻𝑺𝑼𝑹𝒀-𝑩𝑶𝑻 ❤️'
+global.wm = '◈ 𝑵𝑰𝑻𝑺𝑼𝑹𝒀 𝐁𝐎𝐓 ◈'
+global.author = '⩇⃟🥭 𝑴𝒂𝒅𝒆 𝒃𝒚 𝙜𝙖𝙗𝙭𝙯 ⩇⃟🎵'
+global.dev = '🎶 ミ🎵 》𝙂𝘼𝘽𝙓𝙕-𝙓𝙔𝙍𝙊《 🎶ミ ❤️'
+global.bot = '𝙈𝙄𝙩𝙨𝙪𝙧𝙮 𝒃𝒐𝒕'
+global.club = '🎵 𝖯𝗈𝗐𝖾𝗋𝖾𝖽 𝖻𝗒 𝙜𝙖𝙗𝙭𝙯•Core 𝖢𝗅𝗎𝖻 🎶'
+global.textbot = 'ᴍɪᴛsᴜʀʏ-ʙᴏᴛ ✦ ᏀᎪᏴХᏃ'
+global.etiqueta = '@gabxz ° ғ`ᴄ'
 
 //✎﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏﹏
 
