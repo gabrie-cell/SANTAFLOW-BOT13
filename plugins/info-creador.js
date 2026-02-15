@@ -43,7 +43,7 @@ END:VCARD`.trim();
     contextInfo: {
     mentionedJid: [m.sender],
       externalAdReply: {
-        title: '⚡ Contacto del Creador Carlos',
+        title: '⚡ Contacto del Creador xyro-gabxz',
         body: 'Toca aquí para guardar el contacto o hablar con él',
         mediaType: 1,
         thumbnailUrl: fotoPerfil,
