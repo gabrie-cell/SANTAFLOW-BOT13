@@ -15,7 +15,7 @@ ${emoji} Mensaje: ${oi}
   conn.sendFile(m.chat, pp, 'error.jpg', text, m, false, {mentions: [...groupAdmins.map((v) => v.id), owner]});
 };
 handler.help = ['admins <texto>'];
-handler.tags = ['grupo'];
+handler.tags = ['grupos'];
 // regex detect A word without case sensitive
 handler.customPrefix = /a|@/i;
 handler.command = /^(admins|@admins|dmins)$/i;
