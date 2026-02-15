@@ -61,7 +61,7 @@ export async function before(m, { conn }) {
         externalAdReply: {
           title: '◌*̥₊ 𝗠𝗶𝘁𝘀𝘂𝗿𝘆 𝗕𝗼𝘁  ◌💥༉',
           body: '',
-          thumbnailUrl: ' https://files.catbox.moe/l62rt5.jpg',
+          thumbnailUrl: 'https://files.catbox.moe/l62rt5.jpg',
           sourceUrl: '',
           mediaType: 1,
           renderLargerThumbnail: true
@@ -99,7 +99,7 @@ export async function before(m, { conn }) {
   ];
 
   const texto = mensajesNoEncontrado[Math.floor(Math.random() * mensajesNoEncontrado.length)];
-  const thumb = ' https://files.catbox.moe/l62rt5.jpg';
+  const thumb = 'https://files.catbox.moe/l62rt5.jpg';
 
   
   await conn.sendMessage(m.chat, {
