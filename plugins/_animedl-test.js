@@ -42,7 +42,7 @@ let handler = async (m, { conn, text, usedPrefix, command }) => {
     ], m);*/
 
     const caption = `
-╭─═☆彡〔 SANTAFLOW 彡〕☆═─╮
+╭─═☆彡〔 𝗠𝗜𝗧𝗦𝗨𝗥𝗬 彡〕☆═─╮
 │  (•̀ᴗ•́)و💥 ¡Anime listo para ti!
 │━━━━━━━━━━━━━━━━━━━━━━━
 │🎬 𝐏𝐥𝐚𝐭𝐟𝐨𝐫𝐦𝐚: AnimeFLV 🌐
