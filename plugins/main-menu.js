@@ -120,6 +120,6 @@ END:VCARD`
 
 handler.help = ['menu']
 handler.tags = ['main']
-handler.command = /^(allmenu|menuall|todoelmenu|menuconpleto|\?)$/i
+handler.command = /^(menu|menu|todoelmenu|menuconpleto|\?)$/i
 
 export default handler
