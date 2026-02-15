@@ -55,7 +55,7 @@ let handler = async (m, { conn, text, args }) => {
         contextInfo: {
           externalAdReply: {
             title: meta.title,
-            body: '💦 ᥡ᥆ᥙ𝗍ᥙᑲᥱ ძ᥆ᥴ |  SANTAFLOW IA🎵',
+            body: '💦 ᥡ᥆ᥙ𝗍ᥙᑲᥱ ძ᥆ᥴ |  𝗠𝗜𝗧𝗦𝗨𝗥𝗬 IA🎵',
             mediaUrl: args[0],
             sourceUrl: args[0],
             thumbnailUrl: meta.image,
