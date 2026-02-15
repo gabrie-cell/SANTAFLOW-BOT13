@@ -30,7 +30,7 @@ const tags = {
   entertainment: 'ENTERTAINMENT',
   travel: 'TRAVEL',
   food: 'FOOD',
-  shopping: 'SHOPPING',
+  rg: 'RG',
   info: 'INFO',
   emox: 'EMOX',
   security: 'SECURITY',
