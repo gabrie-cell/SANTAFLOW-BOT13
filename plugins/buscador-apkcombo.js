@@ -31,7 +31,7 @@ let handler = async (m, { conn, text }) => {
 };
 
 handler.help = ['apksearch <término>'];
-handler.tags = ['buscador'];
+handler.tags = ['search'];
 handler.command = ['apksearch'];
 handler.register = true;
 
