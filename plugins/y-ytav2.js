@@ -105,6 +105,6 @@ let handler = async (m, { conn, text, usedPrefix, command }) => {
 
 handler.command = ['yta-v2'];
 handler.help = ['yta-v2 <url de YouTube>'];
-handler.tags = ['downloader'];
+handler.tags = ['descargas'];
 
 export default handler;
