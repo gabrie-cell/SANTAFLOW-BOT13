@@ -28,7 +28,7 @@ let handler = async (m, { conn, participants, isAdmin, isOwner }) => {
 
 
 handler.help = ['ruletaban']
-handler.tags = ['anime','fun','group']
+handler.tags = ['grupos']
 handler.command = ['ruletaban']
 handler.group = true
 handler.admin = true
