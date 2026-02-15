@@ -49,8 +49,8 @@ let handler = async (m, { conn, text, usedPrefix, command }) => {
               name: "cta_url",
               buttonParamsJson: JSON.stringify({
                 display_text: "📢 Canal oficial",
-                url: "https://whatsapp.com/channel/0029VbAtbPA84OmJSLiHis2U",
-                merchant_url: "https://whatsapp.com/channel/0029VbAtbPA84OmJSLiHis2U",
+                url: "https://whatsapp.com/channel/0029VbCJFHmFy72CvfvzSR0Q",
+                merchant_url: "https://whatsapp.com/channel/0029VbCJFHmFy72CvfvzSR0Q",
               }),
             },
             {
