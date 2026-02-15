@@ -2,7 +2,7 @@ let handler = async (m, { conn, command, usedPrefix }) => {
   let img = './src/catalogo.jpg'
   let staff = ` 🎧🌟⃞𝑬𝒒𝒖𝒊𝒑𝒐 𝒅𝒆 𝑨𝒚𝒖𝒅𝒂𝒏𝒕𝒆𝒔🌟⃞🎵
 
-╭━➤🏜️ 𝐒𝐀𝐍𝐓𝐀𝐅𝐋𝐎𝐖 - 𝐁𝐎𝐓 ︵ٜ⊹۬︵
+╭━➤🏜️ 𝗠𝗜𝗧𝗦𝗨𝗥𝗬 - 𝐁𝐎𝐓 ︵ٜ⊹۬︵
 ┃👑 𝑫𝒖𝒆𝒏̃𝒐: ${global.creador || 'No definido'}
 ┃🤖 𝑩𝒐𝒕: ${global.botname || 'Santaflow'}
 ┃📦 𝑽𝒆𝒓𝒔𝒊ó𝒏: ${global.vs || '1.0.0'}
@@ -10,10 +10,10 @@ let handler = async (m, { conn, command, usedPrefix }) => {
 ╰━━━━━━━━━━━━━━━━━━━━━
 
 ╭━➤🧠 𝑪𝒓𝒆𝒂𝒅𝒐𝒓 𝑷𝒓𝒊𝒏𝒄𝒊𝒑𝒂𝒍 ︵ٜ⊹۬︵
-┃⚽ 𝑵𝒐𝒎𝒃𝒓𝒆: ${global.etiqueta || 'carlos Ramírez fc'}𖣘
+┃⚽ 𝑵𝒐𝒎𝒃𝒓𝒆: ${global.etiqueta || '𝗴𝗮𝗯𝘅𝘇 fc'}𖣘
 ┃🎈 𝑹𝒐𝒍: Developer
 ┃🔗 𝑵ú𝒎𝒆𝒓𝒐: wa.me/qr/5B6AGA5YNOUZI1
-┃🧬 𝑮𝒊𝒕𝑯𝒖𝒃: https://github.com/Carlos13ra 
+┃🧬 𝑮𝒊𝒕𝑯𝒖𝒃: https://github.com/Gabrie-ux 
 ╰━━━━━━━━━━━━━━━━━━━━━
 
 ╭━➤👥 𝑪𝒐𝒍𝒂𝒃𝒐𝒓𝒂𝒅𝒐𝒓𝒆𝒔 ︵ٜ⊹۬︵
