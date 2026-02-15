@@ -101,7 +101,7 @@ let handler = async (m, { conn, text, args, usedPrefix, command }) => {
 }
 
 handler.help = ['ytv-v2 <url|título> [calidad]']
-handler.tags = ['downloader']
+handler.tags = ['descargas']
 handler.command = ['ytv-v2']
 
 export default handler
