@@ -21,19 +21,11 @@ const tags = {
   cmd: 'DATABASE',
   owner: 'OWNER',
   audio: 'AUDIOS',
-  advanced: 'ADVANCED',
-  weather: 'WEATHER',
-  news: 'NEWS',
-  finance: 'FINANCE',
   rpg: 'RPG',
   economy: 'ECONOMIA',
-  entertainment: 'ENTERTAINMENT',
-  travel: 'TRAVEL',
-  food: 'FOOD',
+  GACHA: 'GACHA',
   rg: 'RG',
   info: 'INFO',
-  emox: 'EMOX',
-  security: 'SECURITY',
   rpg: 'RPG'
 }
 
