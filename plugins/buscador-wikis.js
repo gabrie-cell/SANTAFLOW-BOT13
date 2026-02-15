@@ -56,6 +56,6 @@ let handler = async (m, { conn, text }) => {
 };
 
 handler.command = ['wikis'];
-handler.tags = ['buscador'];
+handler.tags = ['search'];
 handler.help = ['wikis'];
 export default handler;
