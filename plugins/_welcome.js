@@ -32,9 +32,9 @@ export async function before(m, { conn, participants, groupMetadata }) {
     const username = numeroUsuario
     const guildName = groupMetadata.subject
     const memberCount = participants.length
-    const avatar = await conn.profilePictureUrl(usuarioJid, 'image').catch(_ => 'https://i.ibb.co/1s8T3sY/48f7ce63c7aa.jpg')
-    const background = 'https://i.postimg.cc/Y2JJXwyb/1754525693627.jpg'
-    const guildIcon = 'https://github.com/Yuji-XDev.png'
+    const avatar = await conn.profilePictureUrl(usuarioJid, 'image').catch(_ => 'https://raw.githubusercontent.com/El-brayan502/img/upload/uploads/57901e-1771190430404.jpg')
+    const background = 'https://files.catbox.moe/l62rt5.jpg'
+    const guildIcon = 'https://files.catbox.moe/l62rt5.jpg'
 
     const url = `https://goo.su/Vtek/api/generate/welcome-image?username=${encodeURIComponent(username)}&guildName=${encodeURIComponent(guildName)}&memberCount=${memberCount}&avatar=${encodeURIComponent(avatar)}&background=${encodeURIComponent(background)}&guildIcon=${encodeURIComponent(guildIcon)}&key=hYSK8YrJpKRc9jSE&type=${tipo}`
 
@@ -52,7 +52,7 @@ export async function before(m, { conn, participants, groupMetadata }) {
 
   const fkontak = {
     key: { participants: "0@s.whatsapp.net", remoteJid: m.chat, fromMe: false, id: "Halo" },
-    message: { locationMessage: { name: "☆ 𝚂𝙰𝙽𝚃𝙰𝙵𝙻𝙾𝚆 𝙱𝙾𝚃 ☆ ⭐", jpegThumbnail: thumbBuffer } },
+    message: { locationMessage: { name: "☆ MITSURY 𝙱𝙾𝚃 ☆ ⭐", jpegThumbnail: thumbBuffer } },
     participant: "0@s.whatsapp.net"
   }
 
