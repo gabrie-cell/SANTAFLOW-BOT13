@@ -13,7 +13,7 @@ let caption = `${msm} Usuarios Advertidos
 await conn.reply(m.chat, caption, m, { mentions: await conn.parseMention(caption) })}
 
 handler.help = ['listadv']
-handler.tags = ['grupo']
+handler.tags = ['grupos']
 handler.command = ['listadv', 'listaadv', 'listadv', 'adv', 'advlist', 'advlista']
 
 export default handler
