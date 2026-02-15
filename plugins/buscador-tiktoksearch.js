@@ -86,7 +86,7 @@ let handler = async (m, { conn, text, usedPrefix, command }) => {
                 name: "cta_url",
                 buttonParamsJson: JSON.stringify({
                   display_text: "🥭 𝘊𝘏𝘈𝘕𝘕𝘌𝘓 - 𝘖𝘍𝘊",
-                  url: 'https://whatsapp.com/channel/0029Vb6iXGDISTkKY8fxUa39',
+                  url: ' https://whatsapp.com/channel/0029VbCJFHmFy72CvfvzSR0Q',
                 }),
               },
             ],
@@ -109,7 +109,7 @@ let handler = async (m, { conn, text, usedPrefix, command }) => {
                 text: `▶️ *Resultados de TikTok para:* ${text}`,
               }),
               footer: proto.Message.InteractiveMessage.Footer.create({
-                text: "🔥 Santaflow Bot ✨",
+                text: "🔥 𝗺𝗶𝘁𝘀𝘂𝗿𝘆 Bot ✨",
               }),
               header: proto.Message.InteractiveMessage.Header.create({
                 hasMediaAttachment: false,
