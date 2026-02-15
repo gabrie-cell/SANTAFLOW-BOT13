@@ -64,7 +64,7 @@ console.error(error)
 }}
 
 handler.help = ['tweetposts']
-handler.tags = ['buscador']
+handler.tags = ['search']
 handler.command = ['tweetposts']
 handler.register = true
 handler.coin = 1
