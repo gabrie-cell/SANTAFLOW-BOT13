@@ -49,7 +49,7 @@ let handler = async (m, { conn, text, usedPrefix, command }) => {
 │📁 𝐓í𝐭𝐮𝐥𝐨: ${animeId} Ep. ${episode}
 │📦 𝐓𝐚𝐦𝐚ñ𝐨: ${formatBytes(file.size)}
 │
-│💫 Disfruta tu episodio, ¡Santaflow te cubre la maratón! ▶️✨
+│💫 Disfruta tu episodio, ¡𝗠𝗶𝘁𝘀𝘂𝗿𝘆 te cubre la maratón! ▶️✨
 ╰─═☆彡〔 Santaflow Anime DL 〕☆═─╯
 `;
 
