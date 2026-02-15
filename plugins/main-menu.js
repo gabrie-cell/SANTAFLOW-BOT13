@@ -31,7 +31,7 @@ const tags = {
   travel: 'TRAVEL',
   food: 'FOOD',
   shopping: 'SHOPPING',
-  productivity: 'PRODUCTIVITY',
+  info: 'INFO',
   emox: 'EMOX',
   security: 'SECURITY',
   rg: 'PERFIL'
