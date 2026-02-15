@@ -136,7 +136,7 @@ const handler = async (m, { conn, args, usedPrefix, command }) => {
 };
 
 handler.help = ['play8 *<texto>*'];
-handler.tags = ['downloader'];
+handler.tags = ['descargas'];
 handler.command = ['play8'];
 export default handler;
 
