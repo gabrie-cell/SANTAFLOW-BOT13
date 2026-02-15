@@ -4,14 +4,14 @@ import { proto } from '@whiskeysockets/baileys';
 import PhoneNumber from 'awesome-phonenumber';
 
 const handler = async (m, { conn }) => {
-  const name = 'Carlos | Oficial';
-  const numCreador = '51978385249';
-  const empresa = 'santaflow Bot Inc.';
-  const about = '🥭Desarrollador de Santaflow Bot';
-  const correo = 'carlosramirezvillanueva30@gmail.com';
-  const web = 'https://www.atom.bio/musicflowstudio_22';
+  const name = 'G͜͡A͜͡B͜͡X͜͡Z͜͡-͜͡X͜͡Y͜͡R͜͡O͜͡';
+  const numCreador = '+51941658192';
+  const empresa = 'M͜͡T͜͡S͜͡U͜͡R͜͡Y͜͡ B͜͡O͜͡T͜͡ Inc.';
+  const about = '🥭Desarrollador de M͜͡I͜͡T͜͡S͜͡U͜͡R͜͡Y͜͡ Bot';
+  const correo = 'doxeosjr@gmail.com';
+  const web = 'https://www.atom.bio/musicflotudio_22';
   const direccion = 'Tokyo, Japón 🇯🇵';
-  const fotoPerfil = 'https://i.postimg.cc/HLhV1K75/1760212892451.jpg';
+  const fotoPerfil = 'https://files.catbox.moe/4nqbz6.png';
 
   const vcard = `
 BEGIN:VCARD
