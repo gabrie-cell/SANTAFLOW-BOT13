@@ -4,8 +4,8 @@ import moment from 'moment-timezone'
 
 let handler = async (m, { conn, usedPrefix, command }) => {
 
-  let logo = 'https://files.cloudkuimages.guru/images/16d6e45c0565.jpg'
-  let img = 'https://files.cloudkuimages.guru/images/e5ce6e6ddc7c.jpg'
+  let logo = 'https://files.catbox.moe/l62rt5.jpg'
+  let img = 'https://files.catbox.moe/ldqna8.jpg'
 
   // ✦✦✦✦ REGLAS DEL BOT ✦✦✦✦
   if (['botreglas', 'reglasdelbot', 'reglasbot', 'reglas'].includes(command)) {
@@ -17,7 +17,7 @@ let handler = async (m, { conn, usedPrefix, command }) => {
     let groups = Object.values(conn.chats || {}).filter(c => c.id.endsWith('@g.us')).length
 
     const texto = `=================================
-     𝙍𝙀𝙂𝙇𝘼𝙈𝙀𝙉 𝐒𝐀𝐍𝐓𝐀𝐅𝐋𝐎𝐖🎵
+     𝙍𝙀𝙂𝙇𝘼𝙈𝙀𝙉 𝗠𝗜𝗧𝗦𝗨𝗥𝗬🎵
 
 ▤ ✘ No llamar al bot innecesariamente.
 ▤ ✘ No hacer spam o comandos repetitivos.
@@ -33,8 +33,8 @@ let handler = async (m, { conn, usedPrefix, command }) => {
 
 =================================
    ❖ 💠 *𝐈𝐍𝐅𝐎 𝐃𝐄𝐋 𝐁𝐎𝐓* 💠 ❖
-🧑‍💻 *Creador:* CARLOS.RV
-🤖 *Nombre:* SANTAFLOW
+🧑‍💻 *Creador:* 𝗴𝗮𝗯𝘅𝘇
+🤖 *Nombre:* 𝗠𝗜𝗧𝗦𝗨𝗥𝗬
 📦 *Versión:* 2.2.5
 📊 *Usuarios registrados:* ${userCount}
 💬 *Chats activos:* ${chats} (${groups} grupos)
