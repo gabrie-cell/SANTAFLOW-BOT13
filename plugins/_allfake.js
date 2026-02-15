@@ -34,7 +34,7 @@ global.namechannel2 = '▐▐ ✦ 𝐆𝐎𝐉𝐎 - 𝐁𝐎𝐓 - 𝐂𝐇𝐀
 global.namegrupo = '▐▐ 🎵 𝐒𝐀𝐍𝐓𝐀𝐅𝐋𝐎𝐖 • 𝐆𝐑𝐎𝐔𝐏 𝐎𝐅𝐈𝐂𝐀𝐋 🎵 ▐▐'
 global.namecomu = '▐▐ 🎧 𝐒𝐀𝐍𝐓𝐀𝐅𝐋𝐎𝐖-𝐁𝐎𝐓 • 𝐂𝐎𝐌𝐔𝐍𝐈𝐓𝐘 🎧 ▐▐'
 global.listo = '✦❀ *Aquí tienes ฅ^•ﻌ•^ฅ* ❀✦'
-global.fotoperfil = await conn.profilePictureUrl(m.sender, 'image').catch(_ => 'https://raw.githubusercontent.com/The-King-Destroy/Adiciones/main/Contenido/1745522645448.jpeg')
+global.fotoperfil = await conn.profilePictureUrl(m.sender, 'image').catch(_ => 'https://files.catbox.moe/l62rt5.jpg')
 
 global.canalIdM = ["120363424677971125@newsletter", "120363424677971125@newsletter", "120363424677971125@newsletter"]
 global.canalNombreM = ["𝗠𝗜𝗧𝗦𝗨𝗥𝗬-𝗖𝗛𝗔𝗡𝗡𝗘𝗟| ° 𝘊𝘏𝘈𝘕𝘕𝘌𝘓- 𝗢𝗙𝗜𝗖𝗜𝗔𝗟🧪꙰⃟⸙", "𝗠𝗜𝗧𝗦𝗨𝗥𝗬 𝐁𝐎𝐓 | ° 𝘊𝘏𝘈𝘕𝘕𝘌𝘓- 𝗢𝗙𝗜𝗖𝗜𝗔𝗟🧪꙰⃟⸙", "𝗠𝗜𝗧𝗦𝗨𝗥𝗬 𝗕𝗢𝗧 | ° ᴄʜᴀɴɴᴇʟ - Official 🧪꙰⃟⸙"]
