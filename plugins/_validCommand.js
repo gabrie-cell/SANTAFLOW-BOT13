@@ -17,7 +17,7 @@ export async function before(m, { conn }) {
         },
         message: {
             locationMessage: {
-                name: `*̥₊💫𝑺𝑨𝑵𝑻𝑨𝑭𝑳𝑶𝑾 | © 𝘣𝘺 Carlos--𝘯𝘦𝘹 ◌🚨`,
+                name: `*̥₊💫𝗠𝗜𝗧𝗦𝗨𝗥𝗬 | © 𝗕𝗬 𝗚𝗔𝗕𝗫𝗭◌🚨`,
                 jpegThumbnail: thumbBuffer
             }
         },
@@ -59,9 +59,9 @@ export async function before(m, { conn }) {
           newsletterName: channelRD.name
         },
         externalAdReply: {
-          title: '◌*̥₊ 𝗦𝗮𝗻𝘁𝗮𝗳𝗹𝗼𝘄 𝗕𝗼𝘁  ◌💥༉',
+          title: '◌*̥₊ 𝗠𝗶𝘁𝘀𝘂𝗿𝘆 𝗕𝗼𝘁  ◌💥༉',
           body: '',
-          thumbnailUrl: 'https://i.postimg.cc/0NxWTkp0/1754525596737.jpg',
+          thumbnailUrl: ' https://files.catbox.moe/l62rt5.jpg',
           sourceUrl: '',
           mediaType: 1,
           renderLargerThumbnail: true
@@ -99,7 +99,7 @@ export async function before(m, { conn }) {
   ];
 
   const texto = mensajesNoEncontrado[Math.floor(Math.random() * mensajesNoEncontrado.length)];
-  const thumb = 'https://i.postimg.cc/mZqG44Dy/1760212243057.jpg';
+  const thumb = ' https://files.catbox.moe/l62rt5.jpg';
 
   
   await conn.sendMessage(m.chat, {
@@ -113,7 +113,7 @@ export async function before(m, { conn }) {
         newsletterName: channelRD.name
       },
       externalAdReply: {
-        title: ' 🎵 𝗦𝗮𝗻𝘁𝗮𝗳𝗹𝗼𝘄𝘽𝙤𝙩🔥',
+        title: ' 🪾 𝗠𝗶𝘁𝘀𝘂𝗿𝘆𝘽𝙤𝙩🪾',
         body: '',
         thumbnailUrl: thumb,
         sourceUrl: '',
