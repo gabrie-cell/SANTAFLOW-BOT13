@@ -117,7 +117,7 @@ const handler = async (m, { conn, text }) => {
 };
 
 handler.help = ["ytsearch <texto>"];
-handler.tags = ["buscador"];
+handler.tags = ["search"];
 handler.command = ["ytsearch", "yts"];
 handler.group = true;
 
