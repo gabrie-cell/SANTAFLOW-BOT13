@@ -38,7 +38,7 @@ let handler = async (m, { conn, usedPrefix, command, args }) => {
 };
 
 handler.help = ['bot'];
-handler.tags = ['grupo'];
+handler.tags = ['grupos'];
 handler.command = ['bot'];
 handler.admin = true;
 
