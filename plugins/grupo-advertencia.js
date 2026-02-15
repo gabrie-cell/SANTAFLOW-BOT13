@@ -38,6 +38,7 @@ return
 
 handler.command = ['advertir', 'advertencia', 'warn', 'warning'];
 handler.group = true;
+hamdler.tag = [ grupos]
 handler.admin = true;
 handler.botAdmin = true;
 
