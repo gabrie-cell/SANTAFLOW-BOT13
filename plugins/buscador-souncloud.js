@@ -108,7 +108,7 @@ let handler = async (m, { conn, usedPrefix, command, text }) => {
   }
 }
 
-handler.tags = ['buscador'];
+handler.tags = ['search'];
 handler.help = ['soundcloudsearch <texto>'];
 handler.command = ['soundcloudsearch', 'scsearch'];
 handler.register = true;
