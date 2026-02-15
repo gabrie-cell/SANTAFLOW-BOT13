@@ -14,7 +14,7 @@ const tags = {
   grupos: 'GROUPS',
   nable: 'ON / OFF',
   premium: 'PREMIUM',
-  download: 'DOWNLOAD',
+  descargas: 'DOWNLOAD',
   tools: 'TOOLS',
   fun: 'FUN',
   nsfw: 'NSFW',
