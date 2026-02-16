@@ -34,17 +34,17 @@ const tags = {
 const defaultMenu = {
   before: `
 ╔══════════════════╗
-║🍨 MITSURY -BOT🍨  ║
+║🪾 𝐌𝐈𝐓𝐒𝐔𝐑𝐘-𝐁𝐎𝐓 🪾║
 ╠══════════════════╣
 ║ Hola~ soy %botname (◕ᴗ◕✿)
 ║ *%name*, %greeting jeje
 ║ 
-║ 🐉 *Tipo:* %tipo
+║ 🪾 *Tipo:* %tipo
 ║ ⚡ *Nivel:* *100%*
 ║ 📅 *Fecha:* %date
 ║ ⏱️ *Activo:* %uptime
 ╠════════════════════╣
-║      🌀 𝙲𝙾𝙼𝙰𝙽𝙳𝙾𝚂 MITSURY       
+║      🪾 𝐌𝐈𝐒 𝐂𝐎𝐌𝐀𝐍𝐃𝐎𝐒 𝐔𝐖𝐔  
 %readmore
 `.trimStart(),
 
@@ -53,13 +53,13 @@ const defaultMenu = {
   footer: '',
   after: `
 ╠════════════════╣
-║🐉 *MITSURY Bot* 
+║🐉 *𝐌𝐈𝐓𝐒𝐔𝐑𝐘 𝐁𝐎𝐓* 
 ║⚡ Creado por gabxz~ (◕‿◕✿)
-║🌀 Base: MITSURY -MD
-║💫 Domina el chat con poder de mitsury!
+║🌀 Base: 𝐌𝐈𝐓𝐒𝐔𝐑𝐘-𝐌𝐃
+║💫 𝐒𝐞𝐦𝐩𝐢𝐢 𝐝𝐨𝐦𝐢𝐧𝐚𝐦𝐞 𝐮𝐰𝐮!
 ╚════════════════╝
 
-*¡Que la fuerza De MITSURY te acompañe!* 🌀✨
+*¡𝐄𝐍 𝐄𝐒𝐓𝐄 𝐂𝐀𝐌𝐈𝐍𝐎 𝐌𝐈𝐓𝐒𝐔𝐑𝐘 𝐓𝐄 𝐀𝐂𝐎𝐌𝐏𝐀𝐍̃𝐀𝐑𝐀!* 🌀✨
 `.trim(),
 }
 
@@ -90,8 +90,8 @@ const handler = async (m, { conn, usedPrefix: _p }) => {
         premium: p.premium,
       }))
 
-    // Nombre del bot siempre "Gohan Beast Bot" uwu
-    let nombreBot = 'Gohan Beast Bot'
+    // Nombre del bot siempre "𝐌𝐈𝐓𝐒𝐔𝐑𝐘 Bot" uwu
+    let nombreBot = '𝐌𝐈𝐓𝐒𝐔𝐑𝐘 Bot'
     // Imagen uwu de Gohan Beast
     let bannerFinal = 'https://iili.io/fgy4Anj.jpg'
 
@@ -184,7 +184,7 @@ const handler = async (m, { conn, usedPrefix: _p }) => {
       { 
         ...imageContent, 
         caption: text.trim(), 
-        footer: '🌀 *MITSURY-MD Bot* - ¡Comandos MITSURY!', 
+        footer: '🪾 𝐌𝐈𝐓𝐒𝐔𝐑𝐘-𝐌𝐃 - ¡Comandos MITSURY!', 
         buttons, 
         headerType: 4, 
         mentionedJid: conn.parseMention(text),
@@ -192,8 +192,8 @@ const handler = async (m, { conn, usedPrefix: _p }) => {
           forwardingScore: 999,
           isForwarded: true,
           externalAdReply: {
-            title: '🐉 MITSURY-MD ACTIVADO ⚡',
-            body: '¡Menú de comandos MITSURY-MD!',
+            title: '🪾𝐌𝐈𝐓𝐒𝐔𝐑𝐘-𝐌𝐄 🪾',
+            body: '¡Menú de comandos 𝐌𝐈𝐓𝐒𝐔𝐑𝐘!',
             mediaType: 1,
             thumbnailUrl: bannerFinal,
             sourceUrl: 'https://whatsapp.com/channel/0029Vb724SDHltY4qGU9QS3S'
@@ -206,7 +206,7 @@ const handler = async (m, { conn, usedPrefix: _p }) => {
     // Reacciones uwu
     await m.react('🌀')
     setTimeout(() => m.react('⚡'), 500)
-    setTimeout(() => m.react('🐉'), 1000)
+    setTimeout(() => m.react('🪾'), 1000)
 
   } catch (e) {
     console.error('💥 Error en el menú uwu:', e)
