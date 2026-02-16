@@ -130,8 +130,8 @@ let handler = async (m, { conn }) => {
   await conn.relayMessage(m.chat, message, { quoted: m })
 }
 
-handler.command = ['testmenu']
-handler.tags = ['test']
-handler.help = ['testmenu']
+handler.command = ['menu']
+handler.tags = ['maim']
+handler.help = ['menu']
 
 export default handler
