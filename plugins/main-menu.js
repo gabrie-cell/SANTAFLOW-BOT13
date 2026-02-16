@@ -39,7 +39,7 @@ let handler = async (m, { conn, usedPrefix, __dirname, participants }) => {
       'fun': '𝐅𝐔𝐍',
       'rpg': '𝙍𝙋𝙂',
       'economy' : '𝙀𝘾𝙊𝙈𝙊𝙈𝙄𝘼', 
-      'rg'; '𝙍𝙂 𝙐𝙒𝙐, 
+      'rg': '𝙍𝙂 𝙐𝙒𝙐, 
       'gacha': '𝐆𝐀𝐂𝐇𝐀',
       'game': '𝐆𝐀𝐌𝐄',
       'grupos': '𝐆𝐑𝐔𝐏𝐎',
