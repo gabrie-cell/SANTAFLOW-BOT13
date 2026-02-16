@@ -167,8 +167,8 @@ const handler = async (m, { conn, usedPrefix: _p }) => {
     // Botones kawaii (◕ᴗ◕✿)
     const buttons = [
       { 
-        buttonId: '.canal', 
-        buttonText: { displayText: '👑 CREADOR' }, 
+      display_text: "🍃 Canal Oficial",
+        url: "https://whatsapp.com/channel/0029VbCJFHmFy72CvfvzSR0Q/"' }, 
         type: 1 
       },
       { 
