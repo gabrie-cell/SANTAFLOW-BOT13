@@ -4,22 +4,30 @@ import { xpRange } from '../lib/levelling.js'
 
 // Categorías con temática Gohan Beast uwu
 const tags = {
-  Subbots: '🐉 SUBBOTS',
-  eco: '⚡ ENERGÍA SAIYAN',
-  descargas: '🌀 DESCARGAS',
-  tools: '🔧 HERRAMIENTAS',
-  owner: '👑 MAESTRO SAIYAN',
-  info: 'ℹ️ INFORMACIÓN',
-  game: '🎮 ENTRENAMIENTO',
-  gacha: '🎲 ECO DEL REY',
-  reacciones: '💥 REACCIONES',
-  group: '👥 DOJO SAIYAN',
-  search: '🔎 BUSCADOR KAME',
-  sticker: '📌 STICKERS',
-  ia: '🤖 ANDROID 16',
-  channel: '📺 KAME HOUSE',
-  fun: '😂 DIVERSIÓN SAIYAN',
-  beast: '🐉 COMANDOS BEAST'
+  anime: 'ANIME',
+  stalk: 'STALK',
+  main: 'INFO',
+  ai: 'IA',
+  search: 'SEARCH',
+  game: 'GAME',
+  serbot: 'SUB BOTS',
+  rpg: 'RPG',
+  sticker: 'STICKER',
+  grupos: 'GROUPS',
+  nable: 'ON / OFF',
+  premium: 'PREMIUM',
+  descargas: 'DOWNLOAD',
+  tools: 'TOOLS',
+  fun: 'FUN',
+  nsfw: 'NSFW',
+  cmd: 'DATABASE',
+  owner: 'OWNER',
+  audio: 'AUDIOS',
+  rpg: 'RPG',
+  economy: 'ECONOMIA',
+  GACHA: 'GACHA',
+  rg: 'RG',
+  rpg: 'RPG'
 }
 
 // Menú uwu con diseño Gohan Beast >w<
