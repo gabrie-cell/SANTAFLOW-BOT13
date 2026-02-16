@@ -40,7 +40,7 @@ const defaultMenu = {
 ║ *%name*, %greeting jeje
 ║ 
 ║ 🐉 *Tipo:* %tipo
-║ ⚡ *Nivel Saiyan:* *100%*
+║ ⚡ *Nivel:* *100%*
 ║ 📅 *Fecha:* %date
 ║ ⏱️ *Activo:* %uptime
 ╠════════════════════╣
@@ -59,7 +59,7 @@ const defaultMenu = {
 ║💫 Domina el chat con poder de mitsury!
 ╚════════════════╝
 
-*¡Que la fuerza Saiyan te acompañe!* 🌀✨
+*¡Que la fuerza De MITSURY te acompañe!* 🌀✨
 `.trim(),
 }
 
@@ -122,7 +122,7 @@ const handler = async (m, { conn, usedPrefix: _p }) => {
             menuConfig.body
               .replace(/%cmd/g, menu.prefix ? h : `${_p}${h}`)
               .replace(/%islimit/g, menu.limit ? '🔒' : '')
-              .replace(/%isPremium/g, menu.premium ? '💎' : '🌀')
+              .replace(/%isPremium/g, menu.premium ? '💎' : '🍁')
           ).join('\n')).join('\n')
         return cmds ? [menuConfig.header.replace(/%category/g, tags[tag]), cmds, menuConfig.footer].join('\n') : ''
       }).filter(Boolean),
@@ -168,7 +168,7 @@ const handler = async (m, { conn, usedPrefix: _p }) => {
     const buttons = [
       { 
         buttonId: '.canal', 
-        buttonText: { displayText: '👑 KAME HOUSE' }, 
+        buttonText: { displayText: '👑 CREADOR' }, 
         type: 1 
       },
       { 
@@ -178,7 +178,7 @@ const handler = async (m, { conn, usedPrefix: _p }) => {
       },
       { 
         buttonId: '.code', 
-        buttonText: { displayText: '🐉 MITSURY' }, 
+        buttonText: { displayText: '🐉 SER-SUBBOT' }, 
         type: 1 
       }
     ]
@@ -189,7 +189,7 @@ const handler = async (m, { conn, usedPrefix: _p }) => {
       { 
         ...imageContent, 
         caption: text.trim(), 
-        footer: '🌀 *Gohan Beast Bot* - ¡Comandos Dragon Ball!', 
+        footer: '🌀 *MITSURY-MD Bot* - ¡Comandos MITSURY!', 
         buttons, 
         headerType: 4, 
         mentionedJid: conn.parseMention(text),
