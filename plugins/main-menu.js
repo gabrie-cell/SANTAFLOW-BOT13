@@ -4,7 +4,7 @@ let handler = async (m, { conn }) => {
 
   const start = Date.now()
 
-  let imageUrl = 'https://raw.githubusercontent.com/El-brayan502/img/upload/uploads/236200-1771171302918.jpg'
+  let imageUrl = 'https://raw.githubusercontent.com/El-brayan502/img/upload/uploads/57901e-1771190430404.jpg'
 
   const media = await generateWAMessageContent(
     { image: { url: imageUrl } },
@@ -40,7 +40,7 @@ let handler = async (m, { conn }) => {
             text:
 `
 ɪɴꜰᴏ ʙᴏᴛ
-ʙᴏᴛ : ☘️ ʏᴀᴇ ᴍɪᴋᴜ
+ʙᴏᴛ : ☘️ 𝙼𝙸𝚃𝚂𝚄𝚁𝚈-𝙱𝙾𝚃
 
 *\`ɪɴғᴏ ᴜsᴇʀ\`*
 ᴜsᴜᴀʀɪᴏ: ${username}
@@ -54,7 +54,7 @@ let handler = async (m, { conn }) => {
 ᴜᴘᴛɪᴍᴇ: ${hours}h ${minutes}m ${seconds}s
 `
           },
-          footer: { text: "© Kryzen-MD - System Interface" },
+          footer: { text: "© 𝙼𝙸𝚃𝚂𝚄𝚁𝚈-MD - System Interface" },
           nativeFlowMessage: {
             buttons: [
               {
@@ -90,28 +90,28 @@ let handler = async (m, { conn }) => {
                 buttonParamsJson: JSON.stringify({
                   display_text: "Copiar Código",
                   id: "copy_code",
-                  copy_code: "I Love You Brayan Uzumaki 😻"
+                  copy_code: "I Love 𝚈𝚘𝚞 𝚐𝚊𝚋𝚡𝚣"
                 })
               },
               {
                 name: 'cta_url',
                 buttonParamsJson: JSON.stringify({
                   display_text: "Canal de WhatsApp",
-                  url: "https://whatsapp.com/channel/0029Vb6BDQc0lwgsDN1GJ31i"
+                  url: "𝚑𝚝𝚝𝚙𝚜://𝚠𝚑𝚊𝚝𝚜𝚊𝚙𝚙.𝚌𝚘𝚖/𝚌𝚑𝚊𝚗𝚗𝚎𝚕/𝟶𝟶𝟸𝟿𝚅𝚋𝙲𝙹𝙵𝙷𝚖𝙵𝚢𝟽𝟸𝙲𝚟𝚏𝚟𝚣𝚂𝚁𝟶𝚀"
                 })
               },
               {
                 name: 'cta_call',
                 buttonParamsJson: JSON.stringify({
                   display_text: "creator number",
-                  phone_number: "50231458537"
+                  phone_number: "5𝟷941658192"
                 })
               }
             ],
             messageParamsJson: JSON.stringify({
               limited_time_offer: {
                 text: "Kryzen-MD",
-                url: "https://github.com/El-brayan502",
+                url: "https://github.com/Gabrie-ux",
                 copy_code: ` `,
                 expiration_time: 1754613436864329
               },
