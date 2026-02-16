@@ -110,7 +110,7 @@ let handler = async (m, { conn }) => {
             ],
             messageParamsJson: JSON.stringify({
               limited_time_offer: {
-                text: "Kryzen-MD",
+                text: "Mitsury-MD",
                 url: "https://github.com/Gabrie-ux",
                 copy_code: ` `,
                 expiration_time: 1754613436864329
