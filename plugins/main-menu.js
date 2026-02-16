@@ -97,8 +97,8 @@ let handler = async (m, { conn }) => {
                 name: 'cta_url',
                 buttonParamsJson: JSON.stringify({
                   display_text: "Canal de WhatsApp",
-                  url: 
-"𝚑𝚝𝚝𝚙𝚜://𝚠𝚑𝚊𝚝𝚜𝚊𝚙𝚙.𝚌𝚘𝚖/𝚌𝚑𝚊𝚗𝚗𝚎𝚕/𝟶𝟶𝟸𝟿𝚅𝚋𝙲𝙹𝙵𝙷𝚖𝙵𝚢𝟽𝟸𝙲𝚟𝚏𝚟𝚣𝚂𝚁𝟶𝚀"
+                  url:
+"https://whatsapp.com/channel/0029VbCJFHmFy72CvfvzSR0Q"
                 })
               },
               {
